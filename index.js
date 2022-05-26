@@ -390,7 +390,7 @@ function semesters(createdTerm) {
     enrolledSemesters.pop();
     return enrolledSemesters; 
 };
-//console.log(semesters(220188));
+//console.log(semesters(220188));gi
 
 function random_ChangeProgram () {
     let change = [0,1];
