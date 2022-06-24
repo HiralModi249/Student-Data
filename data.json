@@ -1,0 +1,4771 @@
+[
+  {
+    "UIN": 129835562,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220191,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220195,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220198,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220201,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220205,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220208,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220211,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220215,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220218,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nutrition",
+        "Minor": "Food Science"
+      }
+    ]
+  },
+  {
+    "UIN": 169796630,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220228,
+        "Major": "English",
+        "Minor": "Chemistry"
+      }
+    ]
+  },
+  {
+    "UIN": 158561653,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "Law",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220221,
+        "Major": "Law",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Law",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Law",
+        "Minor": "Latin Amer and Latino Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 156200672,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220191,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220195,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220198,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220201,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220205,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220208,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Information & Decision Sci",
+        "Minor": "Economics"
+      }
+    ]
+  },
+  {
+    "UIN": 164324706,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220205,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220208,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220211,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220215,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220218,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220221,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220225,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220228,
+        "Major": "Marketing",
+        "Minor": "Geography"
+      }
+    ]
+  },
+  {
+    "UIN": 182130903,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Anthropology",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220225,
+        "Major": "Anthropology",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220228,
+        "Major": "Anthropology",
+        "Minor": "Art"
+      }
+    ]
+  },
+  {
+    "UIN": 186444526,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220228,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Real Estate"
+      }
+    ]
+  },
+  {
+    "UIN": 108843035,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Public Health (MPH)",
+        "Minor": "English"
+      },
+      {
+        "Term": 220191,
+        "Major": "Public Health (MPH)",
+        "Minor": "English"
+      },
+      {
+        "Term": 220195,
+        "Major": "Public Health (MPH)",
+        "Minor": "English"
+      },
+      {
+        "Term": 220198,
+        "Major": "Public Health (MPH)",
+        "Minor": "English"
+      },
+      {
+        "Term": 220201,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220205,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220208,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220211,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220215,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220218,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220221,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220225,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220228,
+        "Major": "Public Health (MPH)",
+        "Minor": "Disability & Human Development"
+      }
+    ]
+  },
+  {
+    "UIN": 165217962,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "Teaching of History",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of History",
+        "Minor": "Polish"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of History",
+        "Minor": "Polish"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of History",
+        "Minor": "Polish"
+      }
+    ]
+  },
+  {
+    "UIN": 130653384,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220198,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220201,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220205,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220208,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220211,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220215,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220218,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220221,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220225,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      },
+      {
+        "Term": 220228,
+        "Major": "Performance",
+        "Minor": "Labor Markets &Workforce Devel"
+      }
+    ]
+  },
+  {
+    "UIN": 114284413,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Applied Psychology",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Applied Psychology",
+        "Minor": "Philosophy"
+      },
+      {
+        "Term": 220228,
+        "Major": "Applied Psychology",
+        "Minor": "Philosophy"
+      }
+    ]
+  },
+  {
+    "UIN": 157778017,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Movement Sciences"
+      },
+      {
+        "Term": 220221,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Movement Sciences"
+      },
+      {
+        "Term": 220225,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Movement Sciences"
+      },
+      {
+        "Term": 220228,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Movement Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 150805379,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220185,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220188,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220191,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220195,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220198,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220201,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220205,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220208,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220211,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220215,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220218,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220221,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220225,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      },
+      {
+        "Term": 220228,
+        "Major": "Art Education",
+        "Minor": "Social Justice"
+      }
+    ]
+  },
+  {
+    "UIN": 150251387,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220195,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220198,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220201,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220205,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220208,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220211,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220215,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220218,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220221,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220225,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "TheatreDesign,Production&Tech",
+        "Minor": "Food Science"
+      }
+    ]
+  },
+  {
+    "UIN": 171812400,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "French",
+        "Minor": "Urban Studies"
+      },
+      {
+        "Term": 220185,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220188,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220191,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220195,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220198,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220201,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220205,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220208,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220211,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220215,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220218,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220221,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220225,
+        "Major": "French",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220228,
+        "Major": "French",
+        "Minor": "Real Estate"
+      }
+    ]
+  },
+  {
+    "UIN": 101546417,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220201,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220205,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220208,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220211,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of Mathematics",
+        "Minor": "Supply Chain Management"
+      }
+    ]
+  },
+  {
+    "UIN": 101016179,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Art",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220218,
+        "Major": "Art",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220221,
+        "Major": "Art",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220225,
+        "Major": "Art",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220228,
+        "Major": "Art",
+        "Minor": "Sustainable Cities"
+      }
+    ]
+  },
+  {
+    "UIN": 114735976,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Art",
+        "Minor": "Materials Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Art",
+        "Minor": "Movement Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 165040382,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220211,
+        "Major": "Acting",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220215,
+        "Major": "Acting",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220218,
+        "Major": "Acting",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220221,
+        "Major": "Acting",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220225,
+        "Major": "Acting",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220228,
+        "Major": "Acting",
+        "Minor": "Art"
+      }
+    ]
+  },
+  {
+    "UIN": 119336228,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220185,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220188,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220191,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220195,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220198,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220201,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220205,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220208,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220211,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220215,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Art Education",
+        "Minor": "French"
+      }
+    ]
+  },
+  {
+    "UIN": 172632684,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Museum and Exhibition Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 114653660,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220228,
+        "Major": "Orthodontics - Certificate",
+        "Minor": "Computer Science"
+      }
+    ]
+  },
+  {
+    "UIN": 178409938,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Industrial Engineering",
+        "Minor": "Latin"
+      },
+      {
+        "Term": 220225,
+        "Major": "Industrial Engineering",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Industrial Engineering",
+        "Minor": "Native American Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 119193413,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Dental Medicine",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220218,
+        "Major": "Dental Medicine",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220221,
+        "Major": "Dental Medicine",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220225,
+        "Major": "Dental Medicine",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220228,
+        "Major": "Dental Medicine",
+        "Minor": "Human Resource Management"
+      }
+    ]
+  },
+  {
+    "UIN": 118756847,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Public Health",
+        "Minor": "Central & Eastern Eur Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Public Health",
+        "Minor": "Central & Eastern Eur Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Public Health",
+        "Minor": "Central & Eastern Eur Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Public Health",
+        "Minor": "Central & Eastern Eur Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Public Health",
+        "Minor": "Central & Eastern Eur Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 162642786,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220185,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220188,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220191,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220195,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220198,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220201,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220205,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220208,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220211,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220215,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220218,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220221,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220225,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220228,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "International Business"
+      }
+    ]
+  },
+  {
+    "UIN": 155641747,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220185,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Pharmacy",
+        "Minor": "Asian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 175399974,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Latin Amer and Latino Studies",
+        "Minor": "Global Asian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 182579598,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "CADA-Undeclared",
+        "Minor": "Management"
+      },
+      {
+        "Term": 220228,
+        "Major": "CADA-Undeclared",
+        "Minor": "Chinese"
+      }
+    ]
+  },
+  {
+    "UIN": 165571006,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "Nursing-R.N. Completion (BSN)",
+        "Minor": "Electrical Engineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nursing-R.N. Completion (BSN)",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nursing-R.N. Completion (BSN)",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nursing-R.N. Completion (BSN)",
+        "Minor": "Physics"
+      }
+    ]
+  },
+  {
+    "UIN": 114404927,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220188,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220191,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220195,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220198,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220201,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220205,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220208,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Human Development & Learning",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Human Development & Learning",
+        "Minor": "Political Science"
+      },
+      {
+        "Term": 220225,
+        "Major": "Human Development & Learning",
+        "Minor": "Political Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "Human Development & Learning",
+        "Minor": "Political Science"
+      }
+    ]
+  },
+  {
+    "UIN": 152043624,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220198,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Data Science",
+        "Minor": "Lithuanian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 166910295,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220205,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220208,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220211,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220215,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220218,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Liberal Arts - Pre-IHS",
+        "Minor": "Lithuanian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 166287936,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220191,
+        "Major": "Electronic Visualization",
+        "Minor": "Management"
+      },
+      {
+        "Term": 220195,
+        "Major": "Electronic Visualization",
+        "Minor": "Management"
+      },
+      {
+        "Term": 220198,
+        "Major": "Electronic Visualization",
+        "Minor": "Management"
+      },
+      {
+        "Term": 220201,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220205,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220208,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220211,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220215,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220218,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220221,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220225,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      },
+      {
+        "Term": 220228,
+        "Major": "Electronic Visualization",
+        "Minor": "Business Administration"
+      }
+    ]
+  },
+  {
+    "UIN": 169764802,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220185,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Nondegree-CE",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Nondegree-CE",
+        "Minor": "Criminal Justice"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nondegree-CE",
+        "Minor": "Criminal Justice"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nondegree-CE",
+        "Minor": "Criminal Justice"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nondegree-CE",
+        "Minor": "Criminal Justice"
+      }
+    ]
+  },
+  {
+    "UIN": 100963087,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nursing: RN to BSN Completion",
+        "Minor": "Native American Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 119077925,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220211,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220215,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220218,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220221,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220225,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220228,
+        "Major": "Theatre Design",
+        "Minor": "Entrepreneurship"
+      }
+    ]
+  },
+  {
+    "UIN": 122207390,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Finance",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Finance",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Finance",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Finance",
+        "Minor": "Museum and Exhibition Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Finance",
+        "Minor": "Museum and Exhibition Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 131013154,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220191,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220195,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220198,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220201,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220205,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220208,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220211,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220215,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220218,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220221,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220225,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220228,
+        "Major": "Photo/Film/Electronic Media",
+        "Minor": "Communication"
+      }
+    ]
+  },
+  {
+    "UIN": 165420956,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Summer Session",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "Summer Session",
+        "Minor": "Disability & Human Development"
+      }
+    ]
+  },
+  {
+    "UIN": 160736306,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220198,
+        "Major": "Music",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Music",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Music",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Music",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Music",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Music",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Music",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Music",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Music",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Music",
+        "Minor": "Religious Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 125651530,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Management",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Management",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Management",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Management",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Management",
+        "Minor": "Philosophy"
+      },
+      {
+        "Term": 220225,
+        "Major": "Management",
+        "Minor": "Philosophy"
+      },
+      {
+        "Term": 220228,
+        "Major": "Management",
+        "Minor": "Philosophy"
+      }
+    ]
+  },
+  {
+    "UIN": 151767158,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "LAS International Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "LAS International Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "LAS International Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "Studio Arts"
+      },
+      {
+        "Term": 220221,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "Studio Arts"
+      },
+      {
+        "Term": 220225,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "Studio Arts"
+      },
+      {
+        "Term": 220228,
+        "Major": "Criminology, Law, and Justice",
+        "Minor": "Studio Arts"
+      }
+    ]
+  },
+  {
+    "UIN": 147633900,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220211,
+        "Major": "Teaching of Physics",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of Physics",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of Physics",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of Physics",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of Physics",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of Physics"
+      }
+    ]
+  },
+  {
+    "UIN": 110358429,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220188,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220191,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220195,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220198,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220201,
+        "Major": "English",
+        "Minor": "Geography"
+      },
+      {
+        "Term": 220205,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "English",
+        "Minor": "Global Asian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 179444872,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220205,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220208,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220211,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220215,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220218,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220221,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220225,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Food Science"
+      }
+    ]
+  },
+  {
+    "UIN": 110405700,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220188,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220191,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220195,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220198,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220201,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220205,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220208,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220211,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220215,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220218,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220221,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220225,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220228,
+        "Major": "Law",
+        "Minor": "Teaching of English"
+      }
+    ]
+  },
+  {
+    "UIN": 147032348,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Nutrition",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220218,
+        "Major": "Nutrition",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nutrition",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nutrition",
+        "Minor": "Communication"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nutrition",
+        "Minor": "Communication"
+      }
+    ]
+  },
+  {
+    "UIN": 144893746,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Computer Engineering",
+        "Minor": "Supply Chain & Operations Mgmt"
+      },
+      {
+        "Term": 220218,
+        "Major": "Computer Engineering",
+        "Minor": "Supply Chain & Operations Mgmt"
+      },
+      {
+        "Term": 220221,
+        "Major": "Computer Engineering",
+        "Minor": "Teaching of Spanish"
+      },
+      {
+        "Term": 220225,
+        "Major": "Computer Engineering",
+        "Minor": "Teaching of Spanish"
+      },
+      {
+        "Term": 220228,
+        "Major": "Computer Engineering",
+        "Minor": "Teaching of Spanish"
+      }
+    ]
+  },
+  {
+    "UIN": 128095411,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220185,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220188,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220191,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220195,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220198,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220201,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220205,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220208,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220211,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220215,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Nursing",
+        "Minor": "Life Science Visualization"
+      }
+    ]
+  },
+  {
+    "UIN": 169375646,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220191,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220195,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220198,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220201,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220205,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220208,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Liberal Arts - Pre-CS & Ling",
+        "Minor": "Mathematics"
+      }
+    ]
+  },
+  {
+    "UIN": 124893287,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220195,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "French",
+        "Minor": "Russian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 107773011,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Pre-Social Work",
+        "Minor": "Latina/Latino Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Social Work",
+        "Minor": "Latina/Latino Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 170273682,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Marketing",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220225,
+        "Major": "Marketing",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220228,
+        "Major": "Marketing",
+        "Minor": "Management Information Systems"
+      }
+    ]
+  },
+  {
+    "UIN": 184388152,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Civil Engineering",
+        "Minor": "Asian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Civil Engineering",
+        "Minor": "Information Technology"
+      },
+      {
+        "Term": 220228,
+        "Major": "Civil Engineering",
+        "Minor": "Information Technology"
+      }
+    ]
+  },
+  {
+    "UIN": 110097848,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Computer Science",
+        "Minor": "Lithuanian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 179795875,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Nutrition"
+      },
+      {
+        "Term": 220221,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Nutrition"
+      },
+      {
+        "Term": 220225,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Nutrition"
+      },
+      {
+        "Term": 220228,
+        "Major": "LAS Sciences Nondegree-CE",
+        "Minor": "Nutrition"
+      }
+    ]
+  },
+  {
+    "UIN": 109656665,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220191,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220195,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220198,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220201,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220205,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220208,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220211,
+        "Major": "Engineering",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220215,
+        "Major": "Engineering",
+        "Minor": "Biology"
+      },
+      {
+        "Term": 220218,
+        "Major": "Engineering",
+        "Minor": "Biology"
+      },
+      {
+        "Term": 220221,
+        "Major": "Engineering",
+        "Minor": "Biology"
+      },
+      {
+        "Term": 220225,
+        "Major": "Engineering",
+        "Minor": "Biology"
+      },
+      {
+        "Term": 220228,
+        "Major": "Engineering",
+        "Minor": "Biology"
+      }
+    ]
+  },
+  {
+    "UIN": 102839081,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Real Estate",
+        "Minor": "Classical Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 153868938,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220201,
+        "Major": "Teaching of History",
+        "Minor": "Electrical Engineering"
+      },
+      {
+        "Term": 220205,
+        "Major": "Teaching of History",
+        "Minor": "Electrical Engineering"
+      },
+      {
+        "Term": 220208,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of History",
+        "Minor": "Physics"
+      }
+    ]
+  },
+  {
+    "UIN": 155557181,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220218,
+        "Major": "Classical Languages & Lit",
+        "Minor": "Teaching of French"
+      },
+      {
+        "Term": 220221,
+        "Major": "Classical Languages & Lit",
+        "Minor": "Teaching of French"
+      },
+      {
+        "Term": 220225,
+        "Major": "Classical Languages & Lit",
+        "Minor": "Teaching of French"
+      },
+      {
+        "Term": 220228,
+        "Major": "Classical Languages & Lit",
+        "Minor": "Teaching of French"
+      }
+    ]
+  },
+  {
+    "UIN": 120350686,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Prosthodontics - Certificate",
+        "Minor": "Architectural Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 140275411,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220205,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220218,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220221,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220225,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220228,
+        "Major": "Public Health - Undeclared",
+        "Minor": "Psychology"
+      }
+    ]
+  },
+  {
+    "UIN": 168002149,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220185,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220188,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220191,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220195,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220198,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220201,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220205,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220208,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220211,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220215,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220218,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220221,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220225,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220228,
+        "Major": "Summer Session",
+        "Minor": "Sustainable Cities"
+      }
+    ]
+  },
+  {
+    "UIN": 143497651,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220211,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of Spanish",
+        "Minor": "Italian"
+      }
+    ]
+  },
+  {
+    "UIN": 151674213,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Finance",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220228,
+        "Major": "Finance",
+        "Minor": "International Business"
+      }
+    ]
+  },
+  {
+    "UIN": 187457279,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Real Estate Law",
+        "Minor": "Russian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Real Estate Law",
+        "Minor": "Biological Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 180380853,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220188,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220191,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220195,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220198,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220201,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220205,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220208,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220211,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220215,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220218,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Medical Preparatory Nondegree",
+        "Minor": "Environmental Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 162664907,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220191,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220195,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220198,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220201,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220205,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220208,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220211,
+        "Major": "Math and Computer Science",
+        "Minor": "Management Information Systems"
+      },
+      {
+        "Term": 220215,
+        "Major": "Math and Computer Science",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220218,
+        "Major": "Math and Computer Science",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Math and Computer Science",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Math and Computer Science",
+        "Minor": "Bioengineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Math and Computer Science",
+        "Minor": "Bioengineering"
+      }
+    ]
+  },
+  {
+    "UIN": 157375689,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220188,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220191,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220195,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220198,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220201,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220205,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220208,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220211,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of English",
+        "Minor": "Ancient Greek"
+      }
+    ]
+  },
+  {
+    "UIN": 101776837,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220211,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220215,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220218,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220221,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220225,
+        "Major": "Latin American Studies",
+        "Minor": "Professional Writing"
+      },
+      {
+        "Term": 220228,
+        "Major": "Latin American Studies",
+        "Minor": "Music"
+      }
+    ]
+  },
+  {
+    "UIN": 138207103,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Real Estate",
+        "Minor": "Anthropology"
+      },
+      {
+        "Term": 220228,
+        "Major": "Real Estate",
+        "Minor": "Industrial Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 158469430,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220191,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220195,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220198,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220201,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220205,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220208,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220211,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220215,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220218,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220221,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220225,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220228,
+        "Major": "Integrated Design and Arts",
+        "Minor": "Teaching of English"
+      }
+    ]
+  },
+  {
+    "UIN": 135593027,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Teaching of English",
+        "Minor": "Electrical Engineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of English",
+        "Minor": "Electrical Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of English",
+        "Minor": "Electrical Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 125518235,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220188,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220191,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220195,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220198,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220201,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220205,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220208,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220211,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220215,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220218,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220221,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220225,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      },
+      {
+        "Term": 220228,
+        "Major": "Germanic Studies",
+        "Minor": "Psychology"
+      }
+    ]
+  },
+  {
+    "UIN": 120664481,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220188,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220191,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220195,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220198,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220201,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220205,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220208,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220211,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220215,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Occupational Therapy",
+        "Minor": "Real Estate"
+      }
+    ]
+  },
+  {
+    "UIN": 110595499,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220201,
+        "Major": "Music Business",
+        "Minor": "Movement Sciences"
+      },
+      {
+        "Term": 220205,
+        "Major": "Music Business",
+        "Minor": "Movement Sciences"
+      },
+      {
+        "Term": 220208,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Music Business",
+        "Minor": "Business Analytics"
+      }
+    ]
+  },
+  {
+    "UIN": 123230303,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220185,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220188,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220191,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220195,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220198,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Music"
+      },
+      {
+        "Term": 220201,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220205,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220208,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220211,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220215,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220218,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220221,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220225,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      },
+      {
+        "Term": 220228,
+        "Major": "PE: Pre-Teacher Ed, Kinsiol",
+        "Minor": "Food Science"
+      }
+    ]
+  },
+  {
+    "UIN": 127259567,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220185,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220188,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220191,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220195,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220198,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Education - Undeclared",
+        "Minor": "Religious Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 162471096,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220188,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220191,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220195,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220198,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220201,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220205,
+        "Major": "Estate Planning",
+        "Minor": "Teaching of English"
+      },
+      {
+        "Term": 220208,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220211,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220215,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220218,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220221,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220225,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220228,
+        "Major": "Estate Planning",
+        "Minor": "Biological Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 154931950,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220201,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Liberal Arts - PreNeuroscience",
+        "Minor": "Global Asian Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 159547531,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220215,
+        "Major": "Nutrition",
+        "Minor": "Urban Planning & Policy"
+      },
+      {
+        "Term": 220218,
+        "Major": "Nutrition",
+        "Minor": "Urban Planning & Policy"
+      },
+      {
+        "Term": 220221,
+        "Major": "Nutrition",
+        "Minor": "Urban Planning & Policy"
+      },
+      {
+        "Term": 220225,
+        "Major": "Nutrition",
+        "Minor": "Urban Planning & Policy"
+      },
+      {
+        "Term": 220228,
+        "Major": "Nutrition",
+        "Minor": "Urban Planning & Policy"
+      }
+    ]
+  },
+  {
+    "UIN": 166604983,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220211,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220215,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220218,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220221,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220225,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      },
+      {
+        "Term": 220228,
+        "Major": "Sociology",
+        "Minor": "Earth & Environmental Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 121746161,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Industrial Engineering",
+        "Minor": "Materials Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Industrial Engineering",
+        "Minor": "Materials Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 176409379,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Summer Session",
+        "Minor": "Human Capital & Labor Markets"
+      },
+      {
+        "Term": 220228,
+        "Major": "Summer Session",
+        "Minor": "Human Capital & Labor Markets"
+      }
+    ]
+  },
+  {
+    "UIN": 124170353,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220205,
+        "Major": "Latin American Studies",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220208,
+        "Major": "Latin American Studies",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220211,
+        "Major": "Latin American Studies",
+        "Minor": "Entrepreneurship"
+      },
+      {
+        "Term": 220215,
+        "Major": "Latin American Studies",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220218,
+        "Major": "Latin American Studies",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220221,
+        "Major": "Latin American Studies",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220225,
+        "Major": "Latin American Studies",
+        "Minor": "Classical Civilization"
+      },
+      {
+        "Term": 220228,
+        "Major": "Latin American Studies",
+        "Minor": "Classical Civilization"
+      }
+    ]
+  },
+  {
+    "UIN": 166461673,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220211,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      },
+      {
+        "Term": 220215,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      },
+      {
+        "Term": 220218,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Human Resource Management",
+        "Minor": "Chemical Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 157357644,
+    "ClassStanding": "Junior",
+    "semesters": [
+      {
+        "Term": 220211,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      },
+      {
+        "Term": 220215,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      },
+      {
+        "Term": 220218,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      },
+      {
+        "Term": 220221,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      },
+      {
+        "Term": 220225,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Computer Science",
+        "Minor": "Computer Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 150746618,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Summer Session",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220185,
+        "Major": "Summer Session",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220188,
+        "Major": "Summer Session",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220191,
+        "Major": "Summer Session",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220195,
+        "Major": "Summer Session",
+        "Minor": "International Business"
+      },
+      {
+        "Term": 220198,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220201,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220205,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220208,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220211,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220215,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220218,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220221,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220225,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      },
+      {
+        "Term": 220228,
+        "Major": "Summer Session",
+        "Minor": "Human Resource Management"
+      }
+    ]
+  },
+  {
+    "UIN": 113642474,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220198,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220201,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220205,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220208,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Entrepreneurship",
+        "Minor": "Native American Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 129167378,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220201,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220205,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220208,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220211,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220215,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220218,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220221,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Art"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pharmacy -  CCO (PharmD)",
+        "Minor": "Earth & Environmental Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 141592946,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Music",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220225,
+        "Major": "Music",
+        "Minor": "Biological Sciences"
+      },
+      {
+        "Term": 220228,
+        "Major": "Music",
+        "Minor": "Biological Sciences"
+      }
+    ]
+  },
+  {
+    "UIN": 156562989,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220185,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220188,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220191,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220195,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220198,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220201,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220205,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220208,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220211,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220215,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220218,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220221,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220225,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      },
+      {
+        "Term": 220228,
+        "Major": "Teaching of Biol Sciences",
+        "Minor": "Economics"
+      }
+    ]
+  },
+  {
+    "UIN": 105091565,
+    "ClassStanding": "freshman",
+    "semesters": [
+      {
+        "Term": 220225,
+        "Major": "Biological Sciences",
+        "Minor": "Civil Engineering"
+      },
+      {
+        "Term": 220228,
+        "Major": "Biological Sciences",
+        "Minor": "Environmental Engineering"
+      }
+    ]
+  },
+  {
+    "UIN": 119251596,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Electrical Engineering",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Electrical Engineering",
+        "Minor": "Lithuanian Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Electrical Engineering",
+        "Minor": "Latin Amer and Latino Studies"
+      }
+    ]
+  },
+  {
+    "UIN": 117051894,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220195,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220198,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220201,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220205,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220208,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220211,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220215,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220218,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220221,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220225,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      },
+      {
+        "Term": 220228,
+        "Major": "Human Development & Learning",
+        "Minor": "Real Estate"
+      }
+    ]
+  },
+  {
+    "UIN": 124231067,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220181,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220185,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220188,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220191,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220195,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220198,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220201,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220205,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220208,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220211,
+        "Major": "History",
+        "Minor": "Civic Analytics"
+      },
+      {
+        "Term": 220215,
+        "Major": "History",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220218,
+        "Major": "History",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220221,
+        "Major": "History",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220225,
+        "Major": "History",
+        "Minor": "Sustainable Cities"
+      },
+      {
+        "Term": 220228,
+        "Major": "History",
+        "Minor": "Sustainable Cities"
+      }
+    ]
+  },
+  {
+    "UIN": 161319024,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Pre-Health Information Mgmt",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220225,
+        "Major": "Pre-Health Information Mgmt",
+        "Minor": "Disability & Human Development"
+      },
+      {
+        "Term": 220228,
+        "Major": "Pre-Health Information Mgmt",
+        "Minor": "Disability & Human Development"
+      }
+    ]
+  },
+  {
+    "UIN": 115468007,
+    "ClassStanding": "Sophmore",
+    "semesters": [
+      {
+        "Term": 220221,
+        "Major": "Architectural Studies",
+        "Minor": "African American Studies "
+      },
+      {
+        "Term": 220225,
+        "Major": "Architectural Studies",
+        "Minor": "African American Studies "
+      },
+      {
+        "Term": 220228,
+        "Major": "Architectural Studies",
+        "Minor": "African American Studies "
+      }
+    ]
+  },
+  {
+    "UIN": 142574403,
+    "ClassStanding": "Senior",
+    "semesters": [
+      {
+        "Term": 220208,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220211,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220215,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220218,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220221,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220225,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      },
+      {
+        "Term": 220228,
+        "Major": "Summer Session",
+        "Minor": "Latin Amer and Latino Studies"
+      }
+    ]
+  }
+]
