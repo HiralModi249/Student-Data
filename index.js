@@ -10,7 +10,7 @@ function createUIN() {
 };
 
 //Generate term - Term is identified at UIC by 6 digits. 
-//The first digit is the campus (2 - Chicago) followed by the year 
+//The first digit is the campus (2 - Chicago) followed by the year  
 //then the last digit is the semester (8-fall, 1-Spring, 5-summer).
 //RETURNS generated term
 
