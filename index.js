@@ -177,6 +177,21 @@ for (let i =0; i<data.length; i++) {
     
 } 
 
+// To pick out major and minor that contains 4 cs courses(cs , cs + lin, cs + design, data science)
+let recognize = [];
+for (let i = 0; i < data.length; i++){
+    for (let j =0; j< data[i].semesters.length; j++) {
+        
+}
+
+}
+
+
+
+
+
+
+
 //UNCOMMENT this when you want to update .json file or else data will change
 //fs.writeFileSync('data.json', JSON.stringify(jsonFile, undefined, 2));
 
