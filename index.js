@@ -68,26 +68,49 @@ function semesters(createdTerm) {
     //let selectTerm = enrolledTerms[randomIndex];
     let newMinor = random_ChangeProgram();      //calls a function for choosing a new minor
     for (let p = randomIndex; p<= enrolledTerms.length; p++ ){
-        semObject.Minor = newMinor;         //returns an Object of term, major and updated minor
-        enrolledSemesters[p] = {Term:semObject.Term[p], Major:semObject.Major, Minor: semObject.Minor};    
+        if (minor != newMinor && major != newMinor) {
+            //console.log("here");
+            semObject.Minor = newMinor;         //returns an Object of term, major and updated minor
+        }  
+        else if (major != newMinor && minor != newMinor) {
+            semObject.Major = newMinor;         //returns an Object of term, major and updated major
+            
+        } 
+        else {
+            semObject.Major = major;         //returns an Object of term, major and major
+            semObject.Minor = minor;        //returns an Object of term, major and minor  
+        }
+        enrolledSemesters[p] = {Term:semObject.Term[p], Major:semObject.Major, Minor: semObject.Minor}; 
+        
     }
     enrolledSemesters.pop();
+    console.log("here: ");  
+    //console.log(enrolledSemesters);    
     return enrolledSemesters; 
 };
 
+console.log(semesters(220211));
+
 //To change a minor of a random UIN
 function random_ChangeProgram () {
-    let change = [0,1];
+    //let change = [2];
+    let change = [0,1,2,3];
     let lengthOfChange = change.length; 
     let randomChange = Math.floor(Math.random()*lengthOfChange);
     let doesChange = change[randomChange];
     let change_minor;    //change in minor
 
-    if (doesChange == 1) {
+    if (doesChange == 0) {
         change_minor = programs(minors);   //returns a new minor
     }
-    if (doesChange == 0) {
+    if (doesChange == 1) {
         change_minor = minor;           //returns the existing minor
+    }
+    if (doesChange == 2) {
+        change_minor = programs(majors);   //returns a new major
+    }
+    if (doesChange == 3) {
+        change_minor = major;   //returns a exsisting major
     }
     return change_minor;
 };
@@ -138,44 +161,49 @@ function programs(providedList){
     return providedList[ID];
 };
 
-class student  {
-    constructor(UIN, currentClassStanding, AllclassStanding, semester) {
-        this.UIN = UIN;
-        this.currentClassStanding = currentClassStanding;
-        this.AllclassStanding = AllclassStanding;
-        this.semesters = semester;
+// function changesForUIN () {
 
-    }
-}
+// }
 
-//TO GENERATE RANDOM 100 STUDENTS DATA
-let data = [];
-for (let i =0; i< 100; i++) {
-    let createdTerm = createTerm();
-    data[i]= new student(createUIN(), classStanding(semesters(createdTerm)), 
-                        classStanding_flatfile(semesters(createdTerm)), semesters(createdTerm));  
-}
 
-//TO GENERATE JSON FILE
-let  jsonFile =[];
-for (let i =0; i<data.length; i++) {
-    for (let j =0; j< data[i].semesters.length; j++) {      
-        jsonFile[i] =  {UIN:data[i].UIN , 
-        ClassStanding:data[i].currentClassStanding , 
-        semesters:data[i].semesters
-        };        
-    } 
-} 
+// class student  {
+//     constructor(UIN, currentClassStanding, AllclassStanding, semester) {
+//         this.UIN = UIN;
+//         this.currentClassStanding = currentClassStanding;
+//         this.AllclassStanding = AllclassStanding;
+//         this.semesters = semester;
 
-//TO GENERATE FLATFILE  
-var file = [];
-for (let i =0; i<data.length; i++) {
-    for (let j =0; j< data[i].semesters.length; j++) {
-        file.push(data[i].UIN + ";" + data[i].AllclassStanding[j]+ ";" + data[i].semesters[j].Term + ";" 
-                    + data[i].semesters[j].Major + ";" + data[i].semesters[j].Minor );
-    } 
+//     }
+// }
+
+// //TO GENERATE RANDOM 100 STUDENTS DATA
+// let data = [];
+// for (let i =0; i< 100; i++) {
+//     let createdTerm = createTerm();
+//     data[i]= new student(createUIN(), classStanding(semesters(createdTerm)), 
+//                         classStanding_flatfile(semesters(createdTerm)), semesters(createdTerm));  
+// }
+
+// //TO GENERATE JSON FILE
+// let  jsonFile =[];
+// for (let i =0; i<data.length; i++) {
+//     for (let j =0; j< data[i].semesters.length; j++) {      
+//         jsonFile[i] =  {UIN:data[i].UIN , 
+//         ClassStanding:data[i].currentClassStanding , 
+//         semesters:data[i].semesters
+//         };        
+//     } 
+// } 
+
+// //TO GENERATE FLATFILE  
+// var file = [];
+// for (let i =0; i<data.length; i++) {
+//     for (let j =0; j< data[i].semesters.length; j++) {
+//         file.push(data[i].UIN + ";" + data[i].AllclassStanding[j]+ ";" + data[i].semesters[j].Term + ";" 
+//                     + data[i].semesters[j].Major + ";" + data[i].semesters[j].Minor );
+//     } 
     
-} 
+// } 
 
 // To pick out major and minor that contains 4 cs courses(cs , cs + lin, cs + design, data science)
 let recognize = [];
@@ -204,6 +232,9 @@ for (let i = 0; i < data.length; i++){
 // writer.close();
 
 
+
+
+//UIN changes in major if changed and which sem
 //----------------------------------------------------
 
 
