@@ -166,54 +166,68 @@ function programs(providedList){
 // }
 
 
-// class student  {
-//     constructor(UIN, currentClassStanding, AllclassStanding, semester) {
-//         this.UIN = UIN;
-//         this.currentClassStanding = currentClassStanding;
-//         this.AllclassStanding = AllclassStanding;
-//         this.semesters = semester;
+class student  {
+    constructor(UIN, currentClassStanding, AllclassStanding, semester) {
+        this.UIN = UIN;
+        this.currentClassStanding = currentClassStanding;
+        this.AllclassStanding = AllclassStanding;
+        this.semesters = semester;
 
-//     }
-// }
+    }
+}
 
 // //TO GENERATE RANDOM 100 STUDENTS DATA
-// let data = [];
-// for (let i =0; i< 100; i++) {
-//     let createdTerm = createTerm();
-//     data[i]= new student(createUIN(), classStanding(semesters(createdTerm)), 
-//                         classStanding_flatfile(semesters(createdTerm)), semesters(createdTerm));  
-// }
+let data = [];
+for (let i =0; i< 100; i++) {
+    let createdTerm = createTerm();
+    data[i]= new student(createUIN(), classStanding(semesters(createdTerm)), 
+                        classStanding_flatfile(semesters(createdTerm)), semesters(createdTerm));  
+}
 
 // //TO GENERATE JSON FILE
-// let  jsonFile =[];
-// for (let i =0; i<data.length; i++) {
-//     for (let j =0; j< data[i].semesters.length; j++) {      
-//         jsonFile[i] =  {UIN:data[i].UIN , 
-//         ClassStanding:data[i].currentClassStanding , 
-//         semesters:data[i].semesters
-//         };        
-//     } 
-// } 
+let  jsonFile =[];
+for (let i =0; i<data.length; i++) {
+    for (let j =0; j< data[i].semesters.length; j++) {      
+        jsonFile[i] =  {UIN:data[i].UIN , 
+        ClassStanding:data[i].currentClassStanding , 
+        semesters:data[i].semesters
+        };        
+    } 
+} 
 
-// //TO GENERATE FLATFILE  
-// var file = [];
-// for (let i =0; i<data.length; i++) {
-//     for (let j =0; j< data[i].semesters.length; j++) {
-//         file.push(data[i].UIN + ";" + data[i].AllclassStanding[j]+ ";" + data[i].semesters[j].Term + ";" 
-//                     + data[i].semesters[j].Major + ";" + data[i].semesters[j].Minor );
-//     } 
+// //TO GENERATE FLATFILE(CSV FILE)  
+var file = [];
+for (let i =0; i<data.length; i++) {
+    for (let j =0; j< data[i].semesters.length; j++) {
+        file.push(data[i].UIN + ";" + data[i].AllclassStanding[j]+ ";" + data[i].semesters[j].Term + ";" 
+                    + data[i].semesters[j].Major + ";" + data[i].semesters[j].Minor );
+    } 
     
-// } 
+} 
 
 // To pick out major and minor that contains 4 cs courses(cs , cs + lin, cs + design, data science)
 let recognize = [];
+let push = [];
+let fourCourse = ["Computer Sci & Linguistics", "Computer Science", "Engineering - Pre-CS & Design", "Engineering - Pre-CS & Data Science", "Data Science" ];
 for (let i = 0; i < data.length; i++){
     for (let j =0; j< data[i].semesters.length; j++) {
-        
-}
-
-}
-
+        for (let c = 0; c < 4; c++){
+            recognize[i] = {Semesters: data[i].semesters[j].Major + "   ;   " + data[i].semesters[j].Minor};  
+                if(fourCourse[c] == data[i].semesters[j].Major){
+                    push[i] = {Semesters:data[i].semesters[j].Major};
+                    // console.log("Major match");
+                }
+                if(fourCourse[c] == data[i].semesters[j].Minor){
+                    push[i] = {Semesters:data[i].semesters[j].Minor};
+                    // console.log("Minor match");
+                }
+            }
+         }
+    }
+// fs.writeFileSync('major+minor.json', JSON.stringify(recognize, undefined, 2));
+// fs.writeFileSync('push.json', JSON.stringify(push, undefined, 2));
+console.log(recognize);
+console.log(push);
 
 
 
