@@ -1,3 +1,20 @@
+import mysql from 'mysql';
+
+var con = mysql.createConnection({
+  host: "localhost",
+  user: "skim645",
+  password: "abc1234!",
+  database: "BTT_TEST"
+});
+
+
+con.connect(function(err) {
+  if (err) throw err;
+  console.log("Connected!");
+  
+  });
+
+
 import fs from 'fs';
 // import {majors,minors} from "./Arrays_Major_Minor.js";    
 import {majors,minors} from "./Minimize_arrays.js";    
@@ -219,6 +236,7 @@ for (let i =0; i<data.length; i++) {
 } 
 
 // To pick out major and minor that contains 4 cs courses(cs , cs + lin, cs + design, data science)
+<<<<<<< HEAD
 // let recognize = [];
 // let push = [];
 // let fourCourse = ["Computer Sci & Linguistics", "Computer Science", "Engineering - Pre-CS & Design", 
@@ -240,11 +258,41 @@ for (let i =0; i<data.length; i++) {
 // }
    
 
+=======
+let recognize = [];
+let push = [];
+let fourCourse = ["Computer Sci & Linguistics", "Computer Science", "Engineering - Pre-CS & Design", "Engineering - Pre-CS & Data Science", "Data Science" ];
+for (let i = 0; i < data.length; i++){
+    for (let j =0; j< data[i].semesters.length; j++) {
+        for (let c = 0; c < 4; c++){
+            recognize[i] = {UIN: data[i].semesters[j].Major + "   ;   " + data[i].semesters[j].Minor};  
+                if(fourCourse[c] == data[i].semesters[j].Major){
+                    push[i] = {UIN :data[i].UIN , Semesters: data[i].semesters[j].Major };
+                    console.log("Major match");
+                }
+                if(fourCourse[c] == data[i].semesters[j].Minor){
+                    push[i] = {UIN : data[i].UIN , Semesters: data[i].semesters[j].Minor };
+                    console.log("Minor match");
+                }
+            }
+         }
+    }
+>>>>>>> b57b57ebc3abd693b6170324236ca829eb61dd7c
 
 // fs.writeFileSync('major+minor.json', JSON.stringify(recognize, undefined, 2));
 // fs.writeFileSync('push.json', JSON.stringify(push, undefined, 2));
 // console.log(recognize);
 // console.log("list: " +push);
+
+
+
+ 
+
+
+
+
+
+
 
 
 
