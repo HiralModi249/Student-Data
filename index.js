@@ -212,22 +212,33 @@ let fourCourse = ["Computer Sci & Linguistics", "Computer Science", "Engineering
 for (let i = 0; i < data.length; i++){
     for (let j =0; j< data[i].semesters.length; j++) {
         for (let c = 0; c < 4; c++){
-            recognize[i] = {Semesters: data[i].semesters[j].Major + "   ;   " + data[i].semesters[j].Minor};  
+            recognize[i] = {UIN: data[i].semesters[j].Major + "   ;   " + data[i].semesters[j].Minor};  
                 if(fourCourse[c] == data[i].semesters[j].Major){
-                    push[i] = {Semesters:data[i].semesters[j].Major};
-                    // console.log("Major match");
+                    push[i] = {UIN :data[i].UIN , Semesters: data[i].semesters[j].Major };
+                    console.log("Major match");
                 }
                 if(fourCourse[c] == data[i].semesters[j].Minor){
-                    push[i] = {Semesters:data[i].semesters[j].Minor};
-                    // console.log("Minor match");
+                    push[i] = {UIN : data[i].UIN , Semesters: data[i].semesters[j].Minor };
+                    console.log("Minor match");
                 }
             }
          }
     }
+
 // fs.writeFileSync('major+minor.json', JSON.stringify(recognize, undefined, 2));
 // fs.writeFileSync('push.json', JSON.stringify(push, undefined, 2));
 console.log(recognize);
 console.log(push);
+
+
+
+
+
+
+
+
+
+
 
 
 
