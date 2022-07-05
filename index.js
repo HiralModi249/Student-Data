@@ -1,3 +1,20 @@
+import mysql from 'mysql';
+
+var con = mysql.createConnection({
+  host: "localhost",
+  user: "skim645",
+  password: "abc1234!",
+  database: "BTT_TEST"
+});
+
+
+con.connect(function(err) {
+  if (err) throw err;
+  console.log("Connected!");
+  
+  });
+
+
 import fs from 'fs';
 import {majors,minors} from "./Arrays_Major_Minor.js";    
 
@@ -232,7 +249,7 @@ console.log(push);
 
 
 
-
+ 
 
 
 
