@@ -1,20 +1,19 @@
 import fs from 'fs';
 // import {majors,minors} from "./Arrays_Major_Minor.js";    
 import {majors,minors} from "./Minimize_arrays.js";    
-import mysql from 'mysql';
-//const mysql = require('mysql');
-const db  = mysql.createConnection({
-    host: "localhost",
-    user: "hmodi3",
-    password: "abc1234!",
-    database: "BTT_TEST"
-  });
+// import mysql from 'mysql';
+// // const mysql = require('mysql');
+// const db  = mysql.createConnection({
+//     host: "bttsprintdev.cs.uic.edu",
+//     user: "btt",
+//     password: "Btt1234!",
+//     database: "BTT_TEST"
+//   });
   
-  db.connect(function(err) {
-    if (err) throw err;
-    console.log("Connected!");
-  });
-
+//   db.connect(function(err) {
+//     if (err) throw err;
+//     console.log("Connected!");
+//   });
 
 
 //Generate UIN - nine digit random number
@@ -185,7 +184,6 @@ class student  {
         this.currentClassStanding = currentClassStanding;
         this.AllclassStanding = AllclassStanding;
         this.semesters = semester;
-
     }
 }
 
@@ -198,15 +196,17 @@ for (let i =0; i< 100; i++) {
 }
 
 // //TO GENERATE JSON FILE
-let  jsonFile =[];
+
+let jsonFile =[];
 for (let i =0; i<data.length; i++) {
-    for (let j =0; j< data[i].semesters.length; j++) {      
+    for (let j =0; j < data[i].semesters.length; j++) {      
         jsonFile[i] =  {UIN:data[i].UIN , 
         ClassStanding:data[i].currentClassStanding , 
         semesters:data[i].semesters
-        };        
-    } 
-} 
+        };          
+    }
+ }                   
+
 
 // //TO GENERATE FLATFILE(CSV FILE)  
 var file = [];
@@ -215,47 +215,56 @@ for (let i =0; i<data.length; i++) {
         file.push(data[i].UIN + ";" + data[i].AllclassStanding[j]+ ";" + data[i].semesters[j].Term + ";" 
                     + data[i].semesters[j].Major + ";" + data[i].semesters[j].Minor );
     } 
-    
 } 
 
-// To pick out major and minor that contains 4 cs courses(cs , cs + lin, cs + design, data science)
-let recognize = [];
-let push = [];
+// To pick out major and minor that contains 5 cs courses(cs , cs + lin, cs + design, data science)
+let changed = [];
+let switchMajor = 0;
+let switchMinor = 0;
+
 let fourCourse = ["Computer Sci & Linguistics", "Computer Science", "Engineering - Pre-CS & Design", "Engineering - Pre-CS & Data Science", "Data Science" ];
 for (let i = 0; i < data.length; i++){
-    for (let j =0; j< data[i].semesters.length; j++) {
-        for (let c = 0; c < 4; c++){
-            recognize[i] = {UIN: data[i].semesters[j].Major + "   ;   " + data[i].semesters[j].Minor};  
-                if(fourCourse[c] == data[i].semesters[j].Major){
-                    push[i] = {UIN :data[i].UIN , Semesters: data[i].semesters[j].Major };
-                    console.log("Major match");
+    for (let j = 0; j < data[i].semesters.length-1; j++) {
+        for (let c = 0; c < 5; c++){
+                    if (fourCourse[c] == data[i].semesters[0].Minor && data[i].semesters[0].Minor != data[i].semesters[j].Minor){
+                        console.log("changedMinor");
+                        switchMinor++;
+                        changed[i] = {Start_Term: data[i].semesters[0].Term, Current_Term: data[i].semesters[j].Term, 
+                            changedMinor_Term: data[i].semesters[j].Term,UIN: data[i].UIN ,Minor1: data[i].semesters[0].Minor, Minor2: data[i].semesters[1].Minor}; 
+                    }
+                    else if (fourCourse[c] == data[i].semesters[0].Major && data[i].semesters[0].Major != data[i].semesters[j].Major){
+                        console.log("changedMajor");
+                        switchMajor++;
+                        changed[i] = {Start_Term: data[i].semesters[0].Term, Current_Term: data[i].semesters[j].Term,
+                            changedMajor_Term: data[i].semesters[j].Term, UIN: data[i].UIN ,Major1: data[i].semesters[0].Major, Major2: data[i].semesters[1].Major};
+                    }
                 }
-                if(fourCourse[c] == data[i].semesters[j].Minor){
-                    push[i] = {UIN : data[i].UIN , Semesters: data[i].semesters[j].Minor };
-                    console.log("Minor match");
-                }
-            }
-         }
-    }
+             }
+        }
 
-// fs.writeFileSync('major+minor.json', JSON.stringify(recognize, undefined, 2));
-// fs.writeFileSync('push.json', JSON.stringify(push, undefined, 2));
-// console.log(recognize);
-// console.log("list: " +push);
+console.log("-----------------------------------------------------------------------------------------------")
+console.log(changed);
+console.log(switchMajor + "switchMajor");
+console.log(switchMinor + "switchMinor");
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
+//ONLY RETURNS START AND END TERM WITH START MAJOR AND END MAJOR
+// let recognize = [];
+// let push = [];
+// let changeMajorStudent = [];
+// let course = ["Computer Sci & Linguistics", "Computer Science", "Engineering - Pre-CS & Design", 
+//                     "Engineering - Pre-CS & Data Science", "Data Science" ];
+// for (let i = 0; i < data.length; i++){
+//     let len = data[i].semesters.length-1;
+//     for (let j =1; j <= data[i].semesters.length-1; j++) {
+//             for (let c =0; c<5; c++)
+//                 if ( (course[c] == data[i].semesters[0].Major ) && (course[c] != data[i].semesters[len].Major ||course[c] == data[i].semesters[len].Major) )  {
+//                    // if (course[c] != data[i].semesters[len].Major )  {
+//                         changeMajorStudent[i] = {UIN :data[i].UIN , StartTerm: data[i].semesters[0].Term, StartMajor: data[i].semesters[0].Major,
+//                                             CurrentTerm: data[i].semesters[len].Term, CurrentMajor: data[i].semesters[len].Major };
+//                 //}   
+//             }
+//     }
+// }
 
 
 //UNCOMMENT this when you want to update .json file or else data will change
