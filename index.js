@@ -1,8 +1,8 @@
 import fs from 'fs';
 // import {majors,minors} from "./Arrays_Major_Minor.js";    
-import {majors,minors} from "./Minimize_arrays.js";    
-// import mysql from 'mysql';
-// // const mysql = require('mysql');
+//import {majors,minors} from "./Minimize_arrays.js";   
+ 
+//import mysql from 'mysql';
 // const db  = mysql.createConnection({
 //     host: "bttsprintdev.cs.uic.edu",
 //     user: "btt",
@@ -10,11 +10,11 @@ import {majors,minors} from "./Minimize_arrays.js";
 //     database: "BTT_TEST"
 //   });
   
-//   db.connect(function(err) {
+// db.connect(function(err) {
+    
 //     if (err) throw err;
 //     console.log("Connected!");
 //   });
-
 
 //Generate UIN - nine digit random number
 function createUIN() {
