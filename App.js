@@ -30,37 +30,41 @@ db.query(query1, function (err, result, fields) {
   if (err) throw err;
   fs.writeFileSync('Tech_Discipline.json', JSON.stringify(result,undefined,2));
   //let keys = Object.getOwnPropertyNames(result)    
-  for (let i =0, j=1; i<result.length, j<result.length-1; i++, j++) {
+  for (let i =0, j=1; i<result.length, j<result.length; i++, j++) {
     if (result[i].UIN == result[j].UIN) {
-      for (let k =0; k<6; k++) {
+      //for (let k =0; k<6; k++) {
+
+        if( result[i]['Primary Curr Major Name'] != result[j]['Primary Curr Major Name']) {
+          countMajor++;
+        }
         
         //FOR CHANGES IN MAJOR
         //Comparing major of one to another - if UIN matches and major does not match then UIN, major and changed major gets push into temp
-        if(((courses[k] == result[i]['Primary Curr Major Name']) && (courses[k] != result[j]['Primary Curr Major Name'])) ||
-            ((courses[k] != result[i]['Primary Curr Major Name']) && (courses[k] == result[j]['Primary Curr Major Name']))    ){  
-            // temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Major: result[i]['Primary Curr Major Name'],
-            //         ChangedTerm: result[j]['Term Code'], ChangedMajor: result[j]['Primary Curr Major Name']})
-            countMajor++;
-        }
+        // if(((courses[k] == result[i]['Primary Curr Major Name']) && (courses[k] != result[j]['Primary Curr Major Name'])) ||
+        //     ((courses[k] != result[i]['Primary Curr Major Name']) && (courses[k] == result[j]['Primary Curr Major Name']))    ){  
+        //     temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Major: result[i]['Primary Curr Major Name'],
+        //             ChangedTerm: result[j]['Term Code'], ChangedMajor: result[j]['Primary Curr Major Name']})
+        //     countMajor++;
+        // }
 
-      //Comparing minor of one to another - if UIN matches and minor does not match then UIN, minor and changed minor gets push into temp
-        //FOR CHANGES IN MINOR 1  
-        if(((courses[k] == result[i]['Primary Curr Minor 1 Name']) && (courses[k] != result[j]['Primary Curr Minor 1 Name'])) ||
-            ((courses[k] != result[i]['Primary Curr Minor 1 Name']) && (courses[k] == result[j]['Primary Curr Minor 1 Name']))    ){
-            // temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Minor1: result[i]['Primary Curr Minor 1 Name'],
-            //         ChangedTerm: result[j]['Term Code'], ChangedMINOR_1: result[j]['Primary Curr Minor 1 Name']})
-            countMinor++;
-        }
+      // //Comparing minor of one to another - if UIN matches and minor does not match then UIN, minor and changed minor gets push into temp
+      //   //FOR CHANGES IN MINOR 1  
+      //   if(((courses[k] == result[i]['Primary Curr Minor 1 Name']) && (courses[k] != result[j]['Primary Curr Minor 1 Name'])) ||
+      //       ((courses[k] != result[i]['Primary Curr Minor 1 Name']) && (courses[k] == result[j]['Primary Curr Minor 1 Name']))    ){
+      //       // temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Minor1: result[i]['Primary Curr Minor 1 Name'],
+      //       //         ChangedTerm: result[j]['Term Code'], ChangedMINOR_1: result[j]['Primary Curr Minor 1 Name']})
+      //       countMinor++;
+      //   }
 
-        //FOR CHANGES IN MINOR 2
-        if(((courses[k] == result[i]['Primary Curr Minor 2 Name']) && (courses[k] != result[j]['Primary Curr Minor 2 Name'])) ||
-            ((courses[k] != result[i]['Primary Curr Minor 2 Name']) && (courses[k] == result[j]['Primary Curr Minor 2 Name']))    ){
-            // temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Minor2: result[i]['Primary Curr Minor 2 Name'],
-            //         ChangedTerm: result[j]['Term Code'], ChangedMINOR_2: result[j]['Primary Curr Minor 2 Name']})
-            countMinor++;
-        }
+      //   //FOR CHANGES IN MINOR 2
+      //   if(((courses[k] == result[i]['Primary Curr Minor 2 Name']) && (courses[k] != result[j]['Primary Curr Minor 2 Name'])) ||
+      //       ((courses[k] != result[i]['Primary Curr Minor 2 Name']) && (courses[k] == result[j]['Primary Curr Minor 2 Name']))    ){
+      //       // temp.push({UIN: result[i].UIN, Term: result[i]['Term Code'], Minor2: result[i]['Primary Curr Minor 2 Name'],
+      //       //         ChangedTerm: result[j]['Term Code'], ChangedMINOR_2: result[j]['Primary Curr Minor 2 Name']})
+      //       countMinor++;
+      //   }
 
-      }
+      //}
     }
   }  
   //console.log(temp);
